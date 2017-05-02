@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BounceDodge.Plugins", "BounceDodge.Plugins.csproj", "{4BA0435A-10A2-B6A8-759D-D38B7E1156F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BounceDodge", "BounceDodge.csproj", "{C426C1BC-E247-4E75-C5D7-86BC8522F722}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BounceDodge.Editor.Plugins", "BounceDodge.Editor.Plugins.csproj", "{9DA2F7EB-31C5-FD16-6627-57665D71F577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA0435A-10A2-B6A8-759D-D38B7E1156F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA0435A-10A2-B6A8-759D-D38B7E1156F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA0435A-10A2-B6A8-759D-D38B7E1156F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA0435A-10A2-B6A8-759D-D38B7E1156F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C426C1BC-E247-4E75-C5D7-86BC8522F722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C426C1BC-E247-4E75-C5D7-86BC8522F722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C426C1BC-E247-4E75-C5D7-86BC8522F722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C426C1BC-E247-4E75-C5D7-86BC8522F722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DA2F7EB-31C5-FD16-6627-57665D71F577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA2F7EB-31C5-FD16-6627-57665D71F577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA2F7EB-31C5-FD16-6627-57665D71F577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA2F7EB-31C5-FD16-6627-57665D71F577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
